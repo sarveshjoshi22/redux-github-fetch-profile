@@ -1,1 +1,1 @@
-## Simple GitHub Repositories Finder Application
+## Simple GitHub Profile Finder Application
